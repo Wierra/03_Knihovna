@@ -39,3 +39,5 @@ const kniha2 = {
     hmotnost: 392,
     hmJednotka: "g",
 }
+
+document.body.innerHTML += "<p>" + kniha2.nazev + "</p>"
