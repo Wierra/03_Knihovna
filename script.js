@@ -19,4 +19,23 @@ const kniha1 = {
     hmJednotka: "g",
 }
 
-const kniha2 = {}
+const kniha2 = {
+    nazev: "Jak zkrotit svou vnitřní kritičku",
+    autor: "Melisa Ambrosini",
+    cena: 400,
+    popis: "Ztiš tu svou potvoru v sobě, otevři se bohatství a zační zářit zdraví a láskou.",
+    jazyk: "čeština",
+    pocetStran: 280,
+    vydani: {
+        rok: 2024,
+        mesic: 09,
+    },
+    vazba: "paperback",
+    rozmer:{
+        sirka: 144,
+        vyska: 207,
+        rozJednotka: "mm",
+    },
+    hmotnost: 392,
+    hmJednotka: "g",
+}
