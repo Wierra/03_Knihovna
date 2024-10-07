@@ -28,7 +28,7 @@ const kniha2 = {
     pocetStran: 280,
     vydani: {
         rok: 2024,
-        mesic: 09,
+        mesic: 9,
     },
     vazba: "paperback",
     rozmer:{
