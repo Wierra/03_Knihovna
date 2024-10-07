@@ -1,5 +1,5 @@
 const kniha1 = {
-    nazev: "Konec prokrastinace",
+    nazev: "Konec prokrastinace", 
     autor: "Petr Ludwig",
     cena: 350,
     popis: "Jak přestat odkládat a začít žít každý den naplno.",
