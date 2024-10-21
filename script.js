@@ -41,3 +41,39 @@ const kniha2 = {
 }
 
 document.body.innerHTML += "<p>" + kniha2.nazev + "</p>"
+
+
+//řešení Michal
+const book = {
+    title: 'Lord of the Rings',
+    author: {
+      name: 'John Ronald Reuel',
+      surename: 'Tolkien',
+      age: 81,
+    },
+    numberOfPages: 2057,
+    movie: {
+      year: 2000,
+      director: {
+        name: 'Peter',
+        surname: 'Jackson',
+      },
+      actors: {
+        actor1: {
+          name: 'Orlando',
+          surname: 'Bloom',
+          characterName: 'Legolas',
+        },
+        actor2: {
+          name: 'Elijah',
+          surname: 'Wood',
+          characterName: 'Frodo',
+        },
+        actor3: {
+          name: 'Viggo',
+          surname: 'Mortensen',
+          characterName: 'Aragorn',
+        },
+      },
+    },
+  };
